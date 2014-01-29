@@ -29,3 +29,14 @@ files are all 16384 bytes. I suspect `BRIT.DAT` is the surface of Britannia
 and `UNDER.DAT` is the Underworld. I'll attempt to tackle Castle, Dwelling,
 Keep and Towne first, though.
 
+### `TILES.` Files
+
+There are two `TILES.` files:
+
+ - TILES.4
+ - TILES.16
+
+which I presume are the tiles at different bit-depths. There are actually a
+lot of files with a `.4` and `.16` pair.
+
+Given the variety of lengths, I suspect these files are compressed.
